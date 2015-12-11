@@ -46,5 +46,5 @@ These were the following commands that were used to generate maps of chromatin s
 
 ##### Acknowledgments: 
 
-#####   Jason Ernst http://www.biolchem.ucla.edu/labs/ernst/
+#####       Jason Ernst http://www.biolchem.ucla.edu/labs/ernst/
 
