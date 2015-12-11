@@ -6,7 +6,7 @@ Date: Dec 1st 2013
 Email: gireesh.bogu@crg.eu
 
 
-### Citation: Chromatin and RNA Maps Reveal Regulatory Long Noncoding RNAs in Mouse, MCB -(In Revision)
+### citation: Chromatin and RNA Maps Reveal Regulatory Long Noncoding RNAs in Mouse, MCB -(In Revision)
 
 
 
@@ -29,15 +29,18 @@ These were the following commands that were used to generate maps of chromatin s
 2. java -jar ChromHMM.jar LearnModel mm9EncodeHMM_BinaryOutput/ mm9EncodeHMM_Output15/ 15 mm9 
 
 
-References:
+##### References:
 
 1. A map of the cis-regulatory sequences in the mouse genome, Nature, 2012, Yin Shen,	Feng Yue,	David F. McCleary,	Zhen Ye,	Lee Edsall,	Samantha Kuan,	Ulrich Wagner,	Jesse Dixon,	Leonard Lee,	Victor V. Lobanenkov	& Bing Ren
 
-Data source: http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE29184
+    Data source: http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE29184
 
 2. ChromHMM: automating chromatin-state discovery and characterization, Nature methods, 2012, Jason Ernst	& Manolis Kellis
 
-Software link: http://compbio.mit.edu/ChromHMM/
+    Software link: http://compbio.mit.edu/ChromHMM/
 
 
-2. 
+##### Acknowledgments: 
+
+##### Jason Ernst http://www.biolchem.ucla.edu/labs/ernst/
+
