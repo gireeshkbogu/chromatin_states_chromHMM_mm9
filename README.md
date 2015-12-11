@@ -1,9 +1,9 @@
 
-Author: Gireesh Bogu
+'Author: Gireesh Bogu
 
 Date: Dec 1st 2013
 
-Email: gireesh.bogu@crg.eu
+Email: gireesh.bogu@crg.eu'
 
 
 ### citation: Chromatin and RNA Maps Reveal Regulatory Long Noncoding RNAs in Mouse, MCB -(In Revision)
@@ -21,12 +21,13 @@ Third, after testing models from a 2-state model to a 50-state model, we decided
 
 This resulted in the six major chromatin states of active promoter, poised promoter, strong enhancer, poised or weak enhancer, insulator, repressed, transcribed and heterochromatin states. In total, 3,612,616 regions in the mouse genome were enriched with at least one of the six major chromatin states.
 
-These were the following commands that were used to generate maps of chromatin states in mouse
 
+These were the following commands that were used to generate maps of chromatin states in mouse
 
 1. java -jar ChromHMM.jar BinarizeBed CHROMSIZES/mm9.txt mm9EncodeHMM/ mm9EncodeHMM/cellmarkfile mm9EncodeHMM_BinaryOutput/
 
 2. java -jar ChromHMM.jar LearnModel mm9EncodeHMM_BinaryOutput/ mm9EncodeHMM_Output15/ 15 mm9 
+
 
 
 ##### References:
@@ -40,7 +41,8 @@ These were the following commands that were used to generate maps of chromatin s
     Software link: http://compbio.mit.edu/ChromHMM/
 
 
+
 ##### Acknowledgments: 
 
-##### Jason Ernst http://www.biolchem.ucla.edu/labs/ernst/
+#####   Jason Ernst http://www.biolchem.ucla.edu/labs/ernst/
 
