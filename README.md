@@ -6,11 +6,11 @@ Date: Dec 1st 2013
 Email: gireesh.bogu@crg.eu
 
 
-#### Cite this work: Chromatin and RNA Maps Reveal Regulatory Long Noncoding RNAs in Mouse, MCB - (in revision)
+##### Cite this work: Chromatin and RNA Maps Reveal Regulatory Long Noncoding RNAs in Mouse, MCB - (in revision)
 
 
 
-#### How I generated chromatin state maps in mouse (mm9) in few lines:
+###### How I generated chromatin state maps in mouse (mm9) in few lines:
 
 
 First, I collected mapped ChIP-Seq reads of H3K4me1, H3K4me3, H3K36me3, H3K27me3, H3K27ac, CTCF and RNA polymerase II from ENCODE http://hgdownload.cse.ucsc.edu/goldenPath/mm9/encodeDCC/wgEncodeLicrHistone/. This data was originally produced from mouse (C57BL/6-strain, E14 or 8 week-old) brain, heart, kidney, liver, small intestine, spleen, testes, thymus and embryonic stem (ES) cell line as a part of mouse ENCODE project. 
