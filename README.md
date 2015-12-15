@@ -32,7 +32,8 @@ These were the following commands that were used to generate maps of chromatin s
 
 To interpret color, you can use this figure where we named each state with a specific color and name (for detail description please look at my work): 
 
-https://cloud.githubusercontent.com/assets/3885659/11807271/09976574-a319-11e5-82be-907739d817c3.png
+![Chromatin States in mouse (mm9)](https://cloud.githubusercontent.com/assets/3885659/11807271/09976574-a319-11e5-82be-907739d817c3.png)
+
 
 ##### References:
 
