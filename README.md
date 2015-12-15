@@ -44,6 +44,8 @@ To interpret color, you can use this figure where we named each state with a spe
 2. ChromHMM: automating chromatin-state discovery and characterization, Nature methods, 2012, Jason Ernst	& Manolis Kellis
 
     Software link: http://compbio.mit.edu/ChromHMM/
+    
+3. Making sense of chromatin states, Nature, Monya Baker
 
 
 
