@@ -30,6 +30,8 @@ These were the following commands that were used to generate maps of chromatin s
 
 2. java -jar ChromHMM.jar LearnModel mm9EncodeHMM_BinaryOutput/ mm9EncodeHMM_Output15/ 15 mm9 
 
+To interpret color, you can use this figure where we named each state with a specific color and name (for detail description please look at my work): 
+
 
 
 ##### References:
