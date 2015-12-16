@@ -30,7 +30,7 @@ These were the following commands that were used to generate maps of chromatin s
 
 2. java -jar ChromHMM.jar LearnModel mm9EncodeHMM_BinaryOutput/ mm9EncodeHMM_Output15/ 15 mm9 
 
-To interpret states, you can use this figure where I named each state with a specific color and name (for detail description please look at my work): 
+To interpret states, you can use this figure where I named each state with a specific color and name (for a detailed description please look at my work): 
 
 ![Chromatin States in mouse (mm9)](https://cloud.githubusercontent.com/assets/3885659/11807271/09976574-a319-11e5-82be-907739d817c3.png)
 
