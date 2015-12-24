@@ -7,7 +7,6 @@ Email: gireesh.bogu@crg.eu
 
 
 ##### Citation: Chromatin and RNA Maps Reveal Regulatory Long Noncoding RNAs in Mouse, MCB - (accepted)
-Gireesh K. Bogu, Pedro Vizán, Lawrence W. Stanton, Miguel Beato, Luciano Di Croce, Marc A. Marti-Renom
 
 
 
