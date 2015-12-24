@@ -21,7 +21,7 @@ Second, I used a Poisson-based multivariate hidden Markov model (ChromHMM) to id
 
 Third, after testing models from a 2-state model to a 50-state model, we decided to use the 15-state model, which allowed me to interpret the chromatin frequency observed across various tissues and cell lines. 
 
-This resulted in the six major chromatin states of active promoter, poised promoter, strong enhancer, poised or weak enhancer, insulator, repressed, transcribed and heterochromatin states. In total, 3,612,616 regions in the mouse genome were enriched with at least one of the six major chromatin states.
+This resulted in six major chromatin states of active promoter, poised promoter, strong enhancer, poised or weak enhancer, insulator, repressed, transcribed and heterochromatin states. In total, 3,612,616 regions in the mouse genome were enriched with at least one of the six major chromatin states.
 
 
 These were the following commands that were used to generate maps of chromatin states in mouse
@@ -51,5 +51,5 @@ To interpret states, you can use this figure where I named each state with a spe
 
 ##### Acknowledgments: 
 
-#####       Jason Ernst http://www.biolchem.ucla.edu/labs/ernst/
+######       Jason Ernst http://www.biolchem.ucla.edu/labs/ernst/
 
