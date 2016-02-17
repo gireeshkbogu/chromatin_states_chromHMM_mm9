@@ -7,7 +7,7 @@ Email: gireesh.bogu@crg.eu
 
 
 ##### Citation: Chromatin and RNA Maps Reveal Regulatory Long Noncoding RNAs in Mouse, MCB
-http://mcb.asm.org/content/early/2015/12/15/MCB.00955-15.abstract
+http://mcb.asm.org/content/36/5/809.abstract
 
 
 
