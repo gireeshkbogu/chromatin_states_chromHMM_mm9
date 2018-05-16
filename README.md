@@ -35,6 +35,7 @@ To interpret states, you can use this figure where I named each state with a spe
 
 ![Chromatin States in mouse (mm9)](https://cloud.githubusercontent.com/assets/3885659/11807271/09976574-a319-11e5-82be-907739d817c3.png)
 
+Note: If you are using the chromatin state maps from here, try to use the chromatin state names as reference but not the numbers. 
 
 ##### References:
 
